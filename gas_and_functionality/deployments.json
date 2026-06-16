@@ -1,0 +1,1317 @@
+[
+  {
+    "label": "codellama_path",
+    "contract_name": "170.sol:HavvenEthPriceOracle",
+    "address": "0x0873Fe8E9877BD87A5e2d12c62e9475f71264934"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1424.sol:MyContract",
+    "address": "0x5B8002c8EE5825eb7a452E7057C83E119a2631eE"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x5bF8907b3bAA512cB76d57a04De337aF26fD5440"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6399.sol:TestContract",
+    "address": "0x3D8ac41788B9e8364B48A7C02632D19dB0De6Fa0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6826.sol:Channel",
+    "address": "0xE3c9D8A3143d38A954BC06DCcdaF52DD0C76c257"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4942.sol:MyContract",
+    "address": "0x7fC62C704790c9b7E3E3774F67aCCF281A4320E8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "107.sol:TokenRegistry",
+    "address": "0x397665786c72397281F33650F7ccF27bb899D2e9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3520.sol:Arbitration",
+    "address": "0x5d219f0Bdff8359A9E376888580384Aa496aB8CA"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "689.sol:PreAmountSetter",
+    "address": "0x6a9f2550488474623e9D6303cE1ad6A12E6B9953"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1335.sol:MyContract",
+    "address": "0x0D4566aE8569cE719F5af39554B6559697698172"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x7a8cd32fA37724f2d7E18215326C80848d03FfAd"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "892.sol:CarbonDollar",
+    "address": "0xb5c3B9a98f8A8dD44AdB53e6a767854b94391C31"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x11f01ACa869652ED33b117319f25419f1dBCbA32"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6249.sol:PaymentGateway",
+    "address": "0x0Dfa759be7E2497a5fc0448eC7218e385128DA8d"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x60a7BbcBf5928eD99247a690bc62ACC28d393aeF"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2205.sol:Quiz",
+    "address": "0x9f3508525d32bc003475A655Cd40877e039efE34"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xf8a9deDAcE42C267eE2C4706C18DB20Aa1530d41"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1244.sol:EntityContract",
+    "address": "0xda8acAbb66EEfd7156186401FF51C576FbC42ce5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x57D8c883c1b6B8840437478b4FC79A77BDa4b3e9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "250.sol:TimeLockContract",
+    "address": "0x740EbE1F0Ede616C9ba7Cc1e3Bc69D2fDb29E6f4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4864.sol:BatchTransfer",
+    "address": "0x02b486143C80C2f3aDC5944bB6E50771BD235f48"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "node_modules/@openzeppelin/contracts/utils/Address.sol:Address",
+    "address": "0x47eAc5924785E559B0B9Ade6360DfE8fa5453717"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "node_modules/@openzeppelin/contracts/utils/Errors.sol:Errors",
+    "address": "0xCB7403687633d432c095b371cd2C23908Bf4cC54"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4496.sol:ICO",
+    "address": "0x9ED5Af6B81F4459D280EA2AA457057d2B69b41a5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "32.sol:SetPrice",
+    "address": "0x440aDd58F0e0CBbbD5ED05bd7E35f3246e4a92d2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x3ca19738A30Fa60f677142450F40dD8e234fA14C"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2621.sol:Registration",
+    "address": "0xE757499e713b8C113e14BE6cbe63A1E30520202A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2581.sol:Order",
+    "address": "0xC6A93FA3fD0988910e94038Ad92e110aE6443450"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4047.sol:OrderCheck",
+    "address": "0xa4Ce8e63212099C0687EA89921e74A4c49842289"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xba78110B4ff0D70dbDb66312E3154ab0a299992F"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5188.sol:ExchangeRates",
+    "address": "0x013b7b3E48410B27c8c5aFF38b5602c7aF8B0EE5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x7308269451D9dD2Cc615310B618F757827c4dE8E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5765.sol:TokenSale",
+    "address": "0x671e28Cef4dFdfCff686740b55DADb29dC4bFa07"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "915.sol:Campaign",
+    "address": "0xE46f077E8F85daC968deB5468316E5EFDDBFDF69"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x81D594385eBdfD2Ec6d8e46501AB002B5b6b9C84"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2989.sol:ValidatorRegistry",
+    "address": "0xdbE93478232897fA1F9f8cf5A21C0f597AE78B38"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "243.sol:BidContract",
+    "address": "0xF9FdB6a30F8320AC1bBB8D188c0D10f1D3978E2d"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "876.sol:VaultFinance",
+    "address": "0x84EE26103BeD9a05D71970E2E23e7A00a145CDd0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4646.sol:DarknodeBonding",
+    "address": "0x0da1f54c4Fa0D5A31CF739875819d0e36a365186"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x1054e57306DF715684cDaa723Bba564a3b06Ad2e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6383.sol:PackCreatorApproval",
+    "address": "0x16018bE37d34ac49D5966e5caFae184b05B7fAA3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "86.sol:SecurityPayment",
+    "address": "0x0069183b2B2a7dbD5458FBAF30F44912E6F05ADB"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x8349361498B7fD7C394e50CB13B29dbaF962E940"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4569.sol:WhaleWatcher",
+    "address": "0x42DbaE176A18F97994500a5b8001FcC0803d1562"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xd3460f29b645e0C1427002380547739FdF150920"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3776.sol:FeePayingSender",
+    "address": "0x2778C70B5b8Da83Ab7204C74Fb23a1878aFC7fF0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x8Ae7D54615576F1EA44424930dF9394b06f366F8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xc7023aC7761cDAbA0Cb86b95E18c608529f68C64"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3161.sol:Auction",
+    "address": "0x52dE996c2DF1B9f3f358e494C9F94cDa3e892478"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1979.sol:AttributeTypeInformation",
+    "address": "0xab9C19af8855809022f0570E82de9aBddC0e33c0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x511654d6C7C1EE0672092b65aDD6202FEF98Cba3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5074.sol:PaymentContract",
+    "address": "0xe00C8BD2c1E586e70e3353e49064891f4471Cae2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x9be649F330Ab3fb1A6336935A32EF06E5309C41c"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4397.sol:MyToken",
+    "address": "0x0A8f10F558F6D9Ae2eEC4d720ce6E65A0dCcAEed"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "223.sol:CardContract",
+    "address": "0x9CD0AbD3080cEa98917233113E94cd0d4292e7Ca"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xc15c763C2BbC32E5CB5b8bf46614bd3CB809C821"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1962.sol:MyContract",
+    "address": "0x3EB588E844BA44647fD45DAbd7c14eaAb30313c8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1383.sol:AssetTransfer",
+    "address": "0x861fC40250D19538f144Ce8a1EFeD341Ff360Dd4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4560.sol:Market",
+    "address": "0x96d1cd6307d3A2332ff6f8b0708d3CD1175f5f30"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6808.sol:TokenExchange",
+    "address": "0x32cE215911bC99E7206e0a1F6a56024dd13c49bD"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "239.sol:Universe",
+    "address": "0xfF6f3F1323EaB30a913FeAfd26ed0c6E1Da7E7a0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "761.sol:Token",
+    "address": "0x55ACc9D59F0d40447B1cc9CA10DD66e8ecE42F83"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5733.sol:ByteDecoder",
+    "address": "0x51A64F4B98F495BB1Dc7c9c000cD1Bf0dB6fa814"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6826.sol:Channel",
+    "address": "0x068a43B91c1B7cF95a50a6567ff0C9B6792Bcf31"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3433.sol:NeuroChain",
+    "address": "0xD87001201055624Db6d2045DBf93425F85Bf1c0C"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "799.sol:Collectible",
+    "address": "0xd9F2Da57E5C1f8F6939DA7975708E260b10F7f77"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4942.sol:MyContract",
+    "address": "0xaCC331666AF06772EfA04Cd00e95c6F6bbE860de"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "107.sol:TokenRegistry",
+    "address": "0xE01ac06512D3eD8de959B8Cec52B7d1a49d8459D"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1531.sol:InterfaceManager",
+    "address": "0x765462015D29c6681DBE244cEF72479625F0E74e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3285.sol:AssetManager",
+    "address": "0xB102e5f67981eee199499865Db073D0e282Fb475"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5804.sol:ArtMarket",
+    "address": "0xbaCeDa44C17AcD51E77852357357C6f0EF2Ee0F1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3520.sol:Arbitration",
+    "address": "0xFf1619408d36D65Da9B30A64F8a55cE777f79fb8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "689.sol:MyContract",
+    "address": "0x6Ad0d46a72fCcAaB579e4d4baA3e59cB9C10C77e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2600.sol:ConversionRate",
+    "address": "0xDD1B21761f1835eeb05b91CC18107294B54a08B1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1335.sol:BsktToken",
+    "address": "0xC23Eb75d1fc0e7Bf11D4cFAA224551c426F8c9Bd"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "892.sol:CarbonDollar",
+    "address": "0xE57d6ccff6611be5709A41919DD59bCAD04e7546"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6249.sol:Payment",
+    "address": "0x79dB21E70Ff595036955759a873f2CdE64B2ceD4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1268.sol:Pledge",
+    "address": "0x95691372A6272A7f7d0539aEB8fC68F29483f805"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2205.sol:Quiz",
+    "address": "0x629C5F053Aa5eB484411D181b65ccd3359581b87"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3650.sol:IssuerRegistry",
+    "address": "0x77c3E9A16B6e71756882a6fD5056B18d936f8794"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4051.sol:Operator",
+    "address": "0x4ce52A7a958D53bd2A362D428091ec1171C4Ac7A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6054.sol:LockedWallet",
+    "address": "0xB58CC87A7dB3Dc7eE7c143532c570a6Fb381D493"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "250.sol:TimeLock",
+    "address": "0x6CE409ecDeaB0BbcD32486aCCC109ea4e4Ce35dD"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4864.sol:MultiSend",
+    "address": "0x7932f16F34f8278B43AD6156B9ba0ed162eb6727"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2621.sol:RegistrationManager",
+    "address": "0x4DB17b703368F5167BE5af104540054E88136edf"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2581.sol:OrderContract",
+    "address": "0x9ACFc36Db45EFDDe13d4B0524070980dBa720bb4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4669.sol:Estate",
+    "address": "0x11F094749C43a479d78dc726E2D38118Cb20Dd96"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6042.sol:Library",
+    "address": "0x9aa62206B7e9226d543f4D2bD08BF3B9d4b8b7aa"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "915.sol:Campaign",
+    "address": "0xA83f16d061B1eaBf0b2B4b4b9786a867A857a0f2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3881.sol:TrustContract",
+    "address": "0x42Fce11fE3fDe47dC471a721Acb5EB5fBE35a5FA"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "876.sol:FinanceApp",
+    "address": "0x85Ed885aD6d12AfF01a6397D9cFe65e7aCd785FF"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "527.sol:Exchange",
+    "address": "0xe8762E4dfb810e48EBc2CF25aF5E929f259d6CA0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6751.sol:Token",
+    "address": "0xDc0e2BbF35Ae799E9278AAAb28c2d099D8198CA3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4185.sol:Token",
+    "address": "0xD2c77115f8273D02c2573F632AB4A70995d73e3a"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6552.sol:Snapshot",
+    "address": "0xf380aA6505F994B9ed9D4244170E485FC32D9b65"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6383.sol:Pack",
+    "address": "0xa553d4Cb8628a5735A87B2d6AAB01d89008C5f88"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4569.sol:WhaleWatcher",
+    "address": "0x76A861311834092e3C6E5De6f66906e2a936346E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3776.sol:MyContract",
+    "address": "0x8274BE2Bb646BaAcAcC2aEcF06B1AFF8B1bdcc9A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x7d7aC7A801f51B0EC744D18e3E3B4AB38Ce705b9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "153.sol:Project",
+    "address": "0x0CD2C3Db68c7577B5f8818E71E0C58C3E4990b35"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2680.sol:BonusTokenAssignment",
+    "address": "0x1F6977E7A5f578262c7DdCC48428f590f2902f7C"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4597.sol:PixelContract",
+    "address": "0xb8640147095c4242c2F6Ee7099B23934ca3bd87D"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1979.sol:AttributeType",
+    "address": "0x27a7cf6c146928a7fa1eAC00fb9C4Bc02AC8d7a1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "963.sol:Operator",
+    "address": "0xDcADf37A85f6C0Fb69117A453e1d9e23790c36b0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1777.sol:StakeJurisdiction",
+    "address": "0xC7407767E7eC3b308106bfF852B62ec1a68c723B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1824.sol:MyToken",
+    "address": "0x4b2899b2c44b574ead9BA2969873a187953DA6dE"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2308.sol:Registration",
+    "address": "0x02E56daC19213eC6E7B66558C1782D88DE336c7e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1832.sol:MyToken",
+    "address": "0xA1A127233604D7858b98B5a0DA662dF0DB1c25D1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2491.sol:Token",
+    "address": "0xdf02d51E200BD79bd61fd0E49233B9eA79678546"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4397.sol:Token",
+    "address": "0xa47438878077A4Fa02941217961d011950D9F857"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "223.sol:CardContract",
+    "address": "0xe3EC3E606df354dcE81FC1eE4FE4F5Ca73B8F41E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "170.sol:PriceOracle",
+    "address": "0x8129f20752C577Cf92B231F7ab7626ef91782Ee2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x2D5974Aa4A22e9d8B32a106b0CBaA82241ee5405"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1962.sol:UintMapping",
+    "address": "0xB01C267B5290bCB0ed7aDC2Ec45e8D76b27D3a1B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x9F75b59D63DC57b8D3Dbc37d62e2452c107bAE2b"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1383.sol:AllowanceTransfer",
+    "address": "0x14063A63B722A3b588589e02a5f9123705442e8a"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x7842d418fD6F3aA1286A6fAa41EF278E2B80E7fC"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4560.sol:MarketListingCounter",
+    "address": "0xFBd8d9c7E57Db2B4ABffA5aAbd7bF742bfECE75B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x367907AeE1C9f869372A16AcD1AC67F0F569E87D"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "239.sol:ChildUniverseRegistry",
+    "address": "0x0569cFb4B4f5062c428FBF7baA588443200Fdf72"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xa240bDFf56EbA7Ecd35fb4b6fE1f7D96818A881B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2851.sol:Presale",
+    "address": "0x20791ab8CCEb0814aD779F9b01eB136f6e2E1cC6"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xe9B1460833A37AbD65275e26B2Ac8C6902594AFd"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5733.sol:Bytes32Decoder",
+    "address": "0xd9A785686F005D6B278Bda20dC16a9e590Ec5e49"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5733.sol:SafeMath",
+    "address": "0x60aDf794C75f73770727e6f464D0133FFA332778"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6826.sol:Channel",
+    "address": "0x2d55f272564f1658C82bb39Da5A7a329b3b7DE4B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xfb2F4134A9FF5f9781D6442FDa05512e8c6e0194"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6562.sol:MiniMeToken",
+    "address": "0xfF7852F4096F7a93bE685ad221AFfdE41ceA9b1A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x8b3699F22e5510AA65c141b023f8f4D4521633f3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3988.sol:MyContract",
+    "address": "0x7E80061b41311E4809Bff5A2961008606f152a0c"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x9a01032cd250633d07225455c4c35Dff3342e88A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1531.sol:MyContract",
+    "address": "0x5529ecF3e6194Dbdb9FD0bce7FFf5F29A3a0DFeB"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x25EDb1DA90755013A6922746cC46F2C087778da8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3520.sol:Arbitrator",
+    "address": "0x7959001b2E8279bFc649B84B6304424F8c859aB8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xf8DCF6E6eBc4Ec702706ea0D19F8ae236Ab83971"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "689.sol:MyContract",
+    "address": "0xc568234c5651cC61d85dB7F5A0C09b326F03c6Cc"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xaAf0E097bb41B5918CF64eE5a91AaF02fcFB7b4C"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2600.sol:ConversionRateSetter",
+    "address": "0x8B40417D62980A612Ca28e3575C6f40F9F0e7f69"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xC215aCc2b53C1d272590e72CbA8978420D0A1913"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "306.sol:MyContract",
+    "address": "0x3971081556Dd1D881E671049Ce960B95D06b8b8E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xec84153F4efFC50d0a7Dfc0419E12C1f5FA45B9C"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6249.sol:PaymentThreshold",
+    "address": "0xea4fC071fa04461D35451240873A9E4aa8bcbb35"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xBFA02124d669076BDe24c1Bc0704eeCCf9C95560"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5740.sol:TokenContract",
+    "address": "0x76343A7c1A7d1fCD2bF921449875D319302c3bfE"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x862763b0097245076E20f5b2EA4cc541164e26C5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2205.sol:QuestionAnswer",
+    "address": "0xD3386837AaF6a5e989d7cDBdf6B69e675A98A8Ae"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x3c9E24bF9A63b9cFBE3c3b528fF602bEc369C649"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1244.sol:GreyList",
+    "address": "0x66AA52e9884E6eb4d65ffe6CEf0c196DA7Aaf5fA"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x5cFB25aEda4e480d319C5Ed3005d938b1f72De42"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1722.sol:TokenSale",
+    "address": "0xFF2E8765f2191dD56032B5089A627C813AAC00EF"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x774093b8393519c16DDaF36570d5CcfeBDaB770D"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xEd5844a1a5d8F20f3d6064293F750D6c56fC63CE"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3893.sol:MyContract",
+    "address": "0x705B3FF71610FBa36acDF9A43cCD4617eDAAbEa0"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x95fC524e67dC2f0f282A5974c90Ab1C71c11d570"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2621.sol:RegistrationContract",
+    "address": "0x0C8eA89D5d34f71368473037B046648C89092BA1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x47804ae19D7f3d14894c144cfA82167EDBc5f8e9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5007.sol:PixelConContract",
+    "address": "0xB93352F2A40c2623566802CCA7a3A2398b3B6190"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xd018a29dEe85E7E7c71A1728937172687F052BE8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2581.sol:OrderChecker",
+    "address": "0x66B4A5dE672993a0d7Fcd539Eb0F36b46C6F4518"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x8D587dDEa9121d732dE9372F81816a2dA2BEcd00"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6042.sol:LibraryInformation",
+    "address": "0x7Ec31906413C64B3F1B50E91E5AE4c0F5Fed1b9f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x662c913A1aCb658d452601Ee308620C0bf68C2ca"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4047.sol:PointOrderVerifier",
+    "address": "0xc41a9c87AeD5E922AC66b4c6F28439d77d3e8016"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x1793FAbd16875FE303E9c1425e727cF1d7DBFfc8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3728.sol:MyContract",
+    "address": "0x38a6bcD1A37fbF5BcC44C7Fd875b047188E175AA"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xf05811f34692e5ba4dA3d429a102c56b3861cbaf"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5765.sol:MyContract",
+    "address": "0x43a29e4C6D3B2D6D6c53e9437858050d1b63c300"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xBeD6bAa94c38BaD24E99b770559b4A0c60B46541"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "915.sol:Campaign",
+    "address": "0x2fbE73De58aAC23246fC9823888c77101C00aEC6"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x183c5245e4D28Ce281BCDd7033F6c7b946C0fe36"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3881.sol:TrustCheck",
+    "address": "0xd3d74F546839B23708C93E6368057B9DC8514825"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xB25d71Eb49185af61Cfb0abf4B8dF5f51ddF6970"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3103.sol:RedemptionContract",
+    "address": "0xb0e52cAc360c7E613CeEd287e022c6237aa2dC27"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x4a483F46a38f506CFA343dbf9C4f5B3f614fBa83"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "876.sol:FinanceApp",
+    "address": "0xAfCc955C8ebCfd7669600aCB700c1F33eBe4e07e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x66af0f7c1c9a9B592251d2B18A1352eE0BDd7b5E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2632.sol:Campaign",
+    "address": "0x4a9ff27A538382FB77Ea7e00bf0bAefCbF284a83"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x2e3928836186C6edf4eCFCDba4550Aa2557F542B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6751.sol:MyContract",
+    "address": "0xba3B5022F6a99b6758cB417968E6583343f2E2Dd"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xceD46dde316021d9ebb95a2f44EA393318DA83F3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4185.sol:MyToken",
+    "address": "0x1dAD38946c88277f8D462eb392084Ba6dD54ffEa"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x05BF3f7FCA0bD1D77d7D4e1d4bA51D48fBBb13DC"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6552.sol:SnapshotContract",
+    "address": "0xC103e298C333890e27858f51559f2DA713865F9a"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xC4CbD2B35163b32f96A0AB59D52E06e26aBb19f2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4609.sol:BeneficiaryManager",
+    "address": "0x3b4D5DD44cdcB6Bd420aFd8bF2592c7C049B8713"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xAAa0387Fd153041D6232285168d10Cf831b1A10F"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6383.sol:PackCreator",
+    "address": "0x3F3aaf129081B93F2546CC41CA79ac68B136DA2F"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x0f878A42B5452c2cF595e2Cd53Ea7904601f75ca"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3776.sol:TransferWithSenderFee",
+    "address": "0xC021AF0a6F59f0B0f910A248Bf6A06D4979cD35b"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xff36Ae197ec325dBBdAfBd40332dDC3Dd6b77a94"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "812.sol:TokenSale",
+    "address": "0x44a08ee6e7bC614EfBB08A82C302eF453a6B7989"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x0dA3f19d0C98250B11AAB8fA88108328Ef67574f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3161.sol:Auction",
+    "address": "0x246C1052d45F36eF0C58E4aAC257088ec65D2b16"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xff07e9787b7CfDa98f5209718694A1c9492837C1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1979.sol:AttributeTypeContract",
+    "address": "0xdCEFf54109F9B16B992aB63DE0bd5b90d5184444"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x257c6D8E3fC2879573bEF0080710F30f1A3Df878"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1777.sol:MyContract",
+    "address": "0xA2807E171FCc1977b3F8458e3F2f7269574788Bd"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x6fdB8C5fF5b1fb401A82FE96b78A0e625bC0A132"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1824.sol:TokenTransfer",
+    "address": "0x514390395DB9194812e4723EA71E69B031d742d8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x75f36ED77B82949C27604E71A474F66953bec65F"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1832.sol:TokenGenerator",
+    "address": "0x189cb65D89b219af60267401b868Df6c4208309E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x8cBC3e3C8E1C6096E7E20d7c436ABbD1639E8a7E"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2491.sol:MyToken",
+    "address": "0x8B16Bd1B01f879Dc75CF015d28b83143d272C6E7"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x7Ee61C1734ceF305D8592F1614F5B26d4c57cdA3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "223.sol:CardContract",
+    "address": "0xf8fc1a8Db893B58059500ad8F95A59098F9F9eB3"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0x1B78AA84Dd654F00E611b6a148F402c80Ec9c6f4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2241.sol:HardCap",
+    "address": "0xc1cA333433593464E483863b7e7295FE6DF4B417"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xe9E9c1Bc7C11a113d364F9680402f07691ee77b7"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "170.sol:PriceOracle",
+    "address": "0xb4984FC10517E1A0B0fef01C672039132e60ba91"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1962.sol:UintStorage",
+    "address": "0x57a103A26bf2c49f9006e6c7FD4c528BabE95E2d"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4560.sol:PixelconContract",
+    "address": "0x729F4875a252B7068F0E1d3E9c26FB780FB557D6"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6808.sol:PriceSetter",
+    "address": "0x749E6e2998b705972B59e97154e0671dF2Ee369c"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "239.sol:UniverseForker",
+    "address": "0xe175E4bD6d38FC6e7bFBbBaddc40a24743C8402e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3424.sol:CollectionRegistry",
+    "address": "0xD053dc68e07D41416368B12145d1B7Ed091150A5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5733.sol:AssetDecoder",
+    "address": "0x5e9e3D0a3bB965794c8621699f75aC998adF9453"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5478.sol:ExchangeRateSetter",
+    "address": "0xc8fc1563F5371C179A82b2Df57c5D82d3bBBd726"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6826.sol:MyContract",
+    "address": "0x7da18AD391698a1A16fae5597FcdA48F045407a4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3433.sol:NeuroChainAddressRegistry",
+    "address": "0x702e29F8D70d9F914Ea20DA783C993c039505A6e"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "799.sol:MyContract",
+    "address": "0x9AaD089046155D7B811E2dB5915817FfaC930943"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6562.sol:ProxyPayment",
+    "address": "0xd8ebf13c799ECe2f867464Df3646580E5729cc3b"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5781.sol:MyContract",
+    "address": "0xCeC393B872C705f11c0DD9858D913e5FCea641C7"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3285.sol:MyContract",
+    "address": "0x3130372072A0C347D4dC8dE60992A6172C77C1F2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5804.sol:CanvasMarket",
+    "address": "0x0cc74e02DA766ebe87Fd1705f81D9fCF4aff530a"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2600.sol:MyContract",
+    "address": "0x8927f8B5f57fA957024e72de2635EC2D7f0d0a5A"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1335.sol:YourContract",
+    "address": "0x21F0aFB77Bd076FC8C66680AD31181C5f91c2dC9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1268.sol:PledgeContract",
+    "address": "0x82550bA6879759629921d13428d5832C564bcD72"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2359.sol:AttributeCounter",
+    "address": "0xBa6664ae712Ad23933ca10D939baB70ad7Ce8320"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1244.sol:GreyContract",
+    "address": "0x928786eB2E15112B556e5337C27567F4Ad3CdDE5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4051.sol:OperatorApprovalChecker",
+    "address": "0x1446Edc5fE8938B1dd2040ebf2264b8b48293c96"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6054.sol:MyContract",
+    "address": "0xaD45f92fEc3F592F0D2537F8960Be402A3E94183"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4047.sol:WinnerValidator",
+    "address": "0x4bd694a54cA6dfD9f8c00f75445Db85beB6c0aF2"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5188.sol:ExchangeRateOracle",
+    "address": "0x0D6bB4552Eb563E47c7cd5aAC55731C9626b638f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "915.sol:CampaignContract",
+    "address": "0x4Ef463C291FfFF15D9D0FE96fbEe03d05817a4AA"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2989.sol:ValidatorRegistry",
+    "address": "0xd931b24BCC2009acAab05F0e43933340dDA48354"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3881.sol:TrustContract",
+    "address": "0x0b65537e5ee7f92D7D7BE8E8709Aa5Fc51a786a8"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "527.sol:HavvenConverter",
+    "address": "0x03475AaAE37AAe002c8a020dC0BCEef6F5bb0a31"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2632.sol:Fundraiser",
+    "address": "0x34E7636354542cF3578D80EE23eaccE943Ab96Fb"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "5701.sol:Division",
+    "address": "0xc87d3E6507f8B43cda79d5086dA7664d6d2c40Ab"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6552.sol:SnapshotContract",
+    "address": "0xb120E2bf71a91131Ba963B88f45c5Ee6Bd3b311f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6383.sol:AssetPackContract",
+    "address": "0x22696d193EffD24f8b871D81Ff07DFB2D9040da5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3776.sol:MyContract",
+    "address": "0x421557f1d6FF4cD9907372d89c9036f919EBE277"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4597.sol:CanvasContract",
+    "address": "0x9a37731Dd242905608E5c0E99fE8ad3e0F747070"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3161.sol:Auction",
+    "address": "0xCE706Ae1eDC942B24361AFC4EAee86BC648DABC1"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6025.sol:DepositContract",
+    "address": "0x86B5e207c47184e12244a0d2DD6F55281A213a17"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1979.sol:AttributeTypeRegistry",
+    "address": "0x05c49F37A92177c1cAcF1b1CDD53dD6e0E9c0337"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1777.sol:MyContract",
+    "address": "0x9A420c8e9CBF9dC46804dE0eD4a94A3596235928"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1824.sol:MyToken",
+    "address": "0x9Ced26039A3A3cD39A2ba3AFbcB2122De50ad825"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xec960a15AF11Fb4b876D9231325B835931f4ECf4"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "1832.sol:MyToken",
+    "address": "0x9C786aBF031A8CD6Ed12518b5176fdF2250e3d9a"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "openzeppelin/SafeMath.sol:SafeMath",
+    "address": "0xcA4CcCE33e19DF5B2C640C7b69d078157980329f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6399.sol:MyContract",
+    "address": "0xe38218638c8be8bDd1936c652A2504Cf57c43866"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3424.sol:MyContract",
+    "address": "0x0C0CADc359B8579c6a6246bf07eF63060371fB35"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3988.sol:Sale",
+    "address": "0xc34fed729Ae7b2Aeb61Cd0eFc109049b0fD7063f"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "107.sol:TokenRegistry",
+    "address": "0xf1E511360E16d3B65BF464CD6f276c916b06616B"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2205.sol:Arbitration",
+    "address": "0x2B0dbA6ea7625871BCf7EF7399C5a3edF00E4A37"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4051.sol:Operator",
+    "address": "0x351DF6C10393206A9079fB65d366EE7075b535Ce"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3338.sol:AffiliateProgram",
+    "address": "0x5A666002f91D4d72804cB2fC400EACeD3222eDC5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "6042.sol:Library",
+    "address": "0xf869584a8d4E3e5c3faD8C59a1b8a0A8ff776Dd7"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3881.sol:RecoveryContract",
+    "address": "0xfA4CB0D0B03F3ad40Fa7C6B74f10B0B177a498D9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "3881.sol:SafeMath",
+    "address": "0x4895221B80455F253542846aF9bd191e616B7c76"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "4569.sol:Whale",
+    "address": "0x37b7e2967011C7D1E15e0fC7121826233F8dc5B5"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "2491.sol:MyContract",
+    "address": "0xb90D56C1d52CD863FcAe96080923a67862B597e9"
+  },
+  {
+    "label": "codellama_path",
+    "contract_name": "223.sol:CardInfo",
+    "address": "0xcFC4D204432EDE63Af24fc98aFD6c4d667f07447"
+  }
+]

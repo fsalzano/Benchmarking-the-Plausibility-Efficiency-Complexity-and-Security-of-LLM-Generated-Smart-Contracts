@@ -1,0 +1,422 @@
+{
+  "total_functions": 59,
+  "total_samples": 606,
+  "total_correct_outputs": 126,
+  "total_incorrect_outputs": 480,
+  "overall_accuracy": 0.2079207920792079,
+  "per_contract": [
+    {
+      "contract_id": "1663",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "5432",
+      "identical_outputs": 11,
+      "different_outputs": 1,
+      "total_samples": 12,
+      "correctness_rate": 0.9166666666666666
+    },
+    {
+      "contract_id": "6826",
+      "identical_outputs": 0,
+      "different_outputs": 2,
+      "total_samples": 2,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4517",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "5765",
+      "identical_outputs": 10,
+      "different_outputs": 2,
+      "total_samples": 12,
+      "correctness_rate": 0.8333333333333334
+    },
+    {
+      "contract_id": "5074",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4569",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "3477",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "876",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2621",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6774",
+      "identical_outputs": 0,
+      "different_outputs": 2,
+      "total_samples": 2,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "3433",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "5314",
+      "identical_outputs": 0,
+      "different_outputs": 6,
+      "total_samples": 6,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6399",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2581",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "1148",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "1493",
+      "identical_outputs": 12,
+      "different_outputs": 0,
+      "total_samples": 12,
+      "correctness_rate": 1.0
+    },
+    {
+      "contract_id": "1782",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "153",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "32",
+      "identical_outputs": 10,
+      "different_outputs": 2,
+      "total_samples": 12,
+      "correctness_rate": 0.8333333333333334
+    },
+    {
+      "contract_id": "4397",
+      "identical_outputs": 0,
+      "different_outputs": 4,
+      "total_samples": 4,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "86",
+      "identical_outputs": 10,
+      "different_outputs": 2,
+      "total_samples": 12,
+      "correctness_rate": 0.8333333333333334
+    },
+    {
+      "contract_id": "6641",
+      "identical_outputs": 0,
+      "different_outputs": 6,
+      "total_samples": 6,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6513",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4173",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6724",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4864",
+      "identical_outputs": 0,
+      "different_outputs": 6,
+      "total_samples": 6,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "1244",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4646",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2617",
+      "identical_outputs": 10,
+      "different_outputs": 2,
+      "total_samples": 12,
+      "correctness_rate": 0.8333333333333334
+    },
+    {
+      "contract_id": "2602",
+      "identical_outputs": 0,
+      "different_outputs": 4,
+      "total_samples": 4,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "107",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "5733",
+      "identical_outputs": 0,
+      "different_outputs": 4,
+      "total_samples": 4,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6660",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4047",
+      "identical_outputs": 0,
+      "different_outputs": 4,
+      "total_samples": 4,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4464",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "689",
+      "identical_outputs": 11,
+      "different_outputs": 1,
+      "total_samples": 12,
+      "correctness_rate": 0.9166666666666666
+    },
+    {
+      "contract_id": "1424",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "6383",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "243",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "892",
+      "identical_outputs": 12,
+      "different_outputs": 0,
+      "total_samples": 12,
+      "correctness_rate": 1.0
+    },
+    {
+      "contract_id": "3103",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "5993",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2614",
+      "identical_outputs": 12,
+      "different_outputs": 0,
+      "total_samples": 12,
+      "correctness_rate": 1.0
+    },
+    {
+      "contract_id": "1979",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2110",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2989",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "2205",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "3728",
+      "identical_outputs": 11,
+      "different_outputs": 1,
+      "total_samples": 12,
+      "correctness_rate": 0.9166666666666666
+    },
+    {
+      "contract_id": "1777",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4496",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "442",
+      "identical_outputs": 2,
+      "different_outputs": 0,
+      "total_samples": 2,
+      "correctness_rate": 1.0
+    },
+    {
+      "contract_id": "3161",
+      "identical_outputs": 11,
+      "different_outputs": 1,
+      "total_samples": 12,
+      "correctness_rate": 0.9166666666666666
+    },
+    {
+      "contract_id": "223",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "250",
+      "identical_outputs": 2,
+      "different_outputs": 10,
+      "total_samples": 12,
+      "correctness_rate": 0.16666666666666666
+    },
+    {
+      "contract_id": "517",
+      "identical_outputs": 0,
+      "different_outputs": 0,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "915",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    },
+    {
+      "contract_id": "4942",
+      "identical_outputs": 2,
+      "different_outputs": 0,
+      "total_samples": 2,
+      "correctness_rate": 1.0
+    },
+    {
+      "contract_id": "2476",
+      "identical_outputs": 0,
+      "different_outputs": 12,
+      "total_samples": 12,
+      "correctness_rate": 0.0
+    }
+  ]
+}

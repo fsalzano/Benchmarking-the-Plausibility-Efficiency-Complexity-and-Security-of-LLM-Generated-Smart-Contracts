@@ -57,6 +57,9 @@ The project structure is organized as follows:
 
 * scripts/
 
+* security_assestment/
+
+
 ### analysis/
 
 This folder contains code to get similarity metrics (such as BLEU and TED) and complexity to answer Research Questions (RQ) 1 and 4.
@@ -88,4 +91,8 @@ This folder contains the code used to perform retrieval-augmented generation.
 * codellama: This folder contains code to generate samples with codellama and data related to the generated code with and without rag.
 * constructor_injection: This folder contains code to inject constructors with qwen-coder-v2
 * deepseek: This folder contains code to generate samples with deepseek-coder-v2 and data related to the generated code with and without rag.
-* metrics: This folder contains code to obtain base metrics, for instance, semantic similarity, bleu, TED. Use the included requirements.txt to obtain dependencies for SmarEmbed. 
+* metrics: This folder contains code to obtain base metrics, for instance, semantic similarity, bleu, TED. Use the included requirements.txt to obtain dependencies for SmarEmbed.
+
+### security_assestment
+
+This folder contains code and data used to assess the security of the analyzed smart contracts.
